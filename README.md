@@ -1,4 +1,4 @@
-# Primeiro sistema feito por mim no curso da logos em Brasilía
+# Sistema de gerenciamento de pessoas em PHP + OO
 
-Sistema de gerenciamento de pessoas feito em PHP +OO
-Utilizando também HTML e CSS
+Sistema simples de autenticação e CRUD em conexão ao banco de dados mySQL.
+Criei esse projejo no final de 2019 com o intuito de me aperfeiçoar na programção PHP + OO, visto que grande parte dos frameworks php e modelos MVC só podem ser aplicados com orientação a objetos.
